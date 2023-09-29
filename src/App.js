@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark">
-        <a className="navbar-brand" href="#">Integration Testing Challenge</a>
+        <a className="navbar-brand" href="#">The Stranger Things</a>
       </nav>
       <div className="App">
         <Display displayFun={displayFunc}/>
